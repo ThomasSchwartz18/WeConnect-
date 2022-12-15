@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-test/static/css/main.073c9b0a.css",
-    "main.js": "/react-test/static/js/main.c7d07971.js",
-    "static/js/787.0c3f432a.chunk.js": "/react-test/static/js/787.0c3f432a.chunk.js",
-    "static/media/logo.svg": "/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-test/static/css/main.694049ce.css",
+    "main.js": "/react-test/static/js/main.0ad4b61d.js",
     "index.html": "/react-test/index.html",
-    "main.073c9b0a.css.map": "/react-test/static/css/main.073c9b0a.css.map",
-    "main.c7d07971.js.map": "/react-test/static/js/main.c7d07971.js.map",
-    "787.0c3f432a.chunk.js.map": "/react-test/static/js/787.0c3f432a.chunk.js.map"
+    "main.694049ce.css.map": "/react-test/static/css/main.694049ce.css.map",
+    "main.0ad4b61d.js.map": "/react-test/static/js/main.0ad4b61d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c7d07971.js"
+    "static/css/main.694049ce.css",
+    "static/js/main.0ad4b61d.js"
   ]
 }
